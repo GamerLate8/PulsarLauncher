@@ -13,13 +13,5 @@ PulsarLauncher is an efficient application launcher for Linux that allows you to
 
 ### Prerequisites
 
-- Linux OS (tested on Ubuntu 20.04)
-- GCC compiler (for compiling C code)
+- Linux OS (tested on Ubuntu 24.04 LTS)
 - Basic knowledge of terminal commands
-
-### Steps
-
-1. **Download the source code**:
-   ```bash
-   git clone https://github.com/yourusername/pulsarlauncher.git
-   cd pulsarlauncher

@@ -1,0 +1,24 @@
+Date: Fri, 21 Jun 2024 11:39:33 +0000
+MD5Sum:
+ d6f084612b7e0e902790d54793a44bad              577 Packages
+ a59843195575004a2e02fbfb0dc9acb7              413 Packages.gz
+ 6d7e41f8a8d1177a5e8805184c087b5e               38 Release
+SHA1:
+ cb32df4affcc653a1a664a657f6889a3bc36d142              577 Packages
+ ea91f8154dc9acb45f93babae062e08876f32324              413 Packages.gz
+ 2ea354b6cbbc5c5bda9c8ddba15cd008acf777a3               38 Release
+SHA256:
+ d59940d21d5deb151d279847f43f2fc4920fc93d3f775678fc130a0fb94d15b5              577 Packages
+ e0ec467eec0e416ce728e481acb862717fdd6329188672279d1c7550b08fb230              413 Packages.gz
+ d780a6980cf79151a204c5c14699f25538cb4657218b0e1837d6f68957bd38e3               38 Release
+SHA512:
+ a47cd97d6e5e61b22321517bf2ccad56bfba76ce613c726511f35ba41f625b05333418ce86fe18b700e3a25f45cb6f8716d9004994cdead91df2d13b2577dbe3              577 Packages
+ 4ca2de16770e95d7056370f0cf0c04db81f92ba18a266b8f921b155834c7f48232e0e7c5714eb7eb6f91a8d8a713ef851a677e0ef72a6a6f62e752d26596e427              413 Packages.gz
+ 5dee68a58ed99b7e7b58e4c3142c82d6786d1e4c207c8abed8161ae39914e718c2733c20d07e0b842e4bd6af545999850040c8ca306e9d815dedc331b4b18469               38 Release
+Origin: PulsarLauncher
+Label: PulsarLauncher
+Suite: stable
+Codename: focal
+Architectures: amd64
+Components: main
+Description: PulsarLauncher is an efficient application launcher for Linux that allows you to manage and launch your favorite apps quickly from a terminal-based menu.

@@ -15,3 +15,8 @@ PulsarLauncher is an efficient application launcher for Linux that allows you to
 
 - Linux OS (tested on Ubuntu 24.04 LTS)
 - Basic knowledge of terminal commands
+
+
+
+
+-- Can Run On Windows/Mac (not tested)
